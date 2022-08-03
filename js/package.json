@@ -1,0 +1,16 @@
+{
+  "name": "bug-libp2p-peerid",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "Bug reproduction repo",
+  "main": "with-js-lib.js",
+  "scripts": {
+    "start": "node with-js-lib.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Gimenez",
+  "license": "ISC",
+  "dependencies": {
+    "peer-id": "^0.16.0"
+  }
+}
